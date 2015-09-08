@@ -1,0 +1,10 @@
+<div class="about">
+    <div class="about__devider">*****</div>
+    <div class="about__text">
+        Written by <strong> {% if page.author.fullname %} {{ page.author.fullname }} {% else %} {{ site.author.fullname }} {% endif %}</strong>
+        on <strong>{{ page.date | date: "%d %B %Y" }}</strong>
+
+        <!-- Enable once disqus integrated -->
+        <!-- <br> <a href="#" class="comments_toggler"> with (10) comments </a> -->
+    </div>
+</div>
