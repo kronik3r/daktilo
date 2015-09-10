@@ -3,6 +3,9 @@
 # Daktilo
 Daktilo is a [Jekyll](jekyllrb.com) theme with a minimal design inspired from typewriters.
 
+# Live preview
+[Click here](http://hitchhiker.ma/daktilo/) to see the theme in action.
+
 # Features
 - Fully responsive
 - [Disqus](https://disqus.com/) integration for comments.
