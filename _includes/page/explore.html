@@ -3,7 +3,7 @@
     <div class="explore__label">Explore the different categories</div>
     <ul class="categories">
         {% for category in site.data.categories %}
-            <li class="categories__item"><a href="/categories/{{ category.slug }}/">{{ category.name }}</a></li>
+            <li class="categories__item"><a href="{{ '/categories/' | append: category.slug | prepend: site.baseurl }}">{{ category.name }}</a></li>
         {% endfor %}
         <li class="categories__item"><a href="/">All</a></li>
     </ul>
