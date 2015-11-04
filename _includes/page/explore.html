@@ -5,6 +5,6 @@
         {% for category in site.data.categories %}
             <li class="categories__item"><a href="{{ '/categories/' | append: category.slug | prepend: site.baseurl }}">{{ category.name }}</a></li>
         {% endfor %}
-        <li class="categories__item"><a href="/">All</a></li>
+		<li class="categories__item"><a href="{{ '/' | prepend: site.baseurl }}">All</a></li>
     </ul>
 </div>
