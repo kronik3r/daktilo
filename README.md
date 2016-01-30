@@ -3,8 +3,8 @@
 # Daktilo
 Daktilo is a [Jekyll](jekyllrb.com) theme with a minimal design inspired from typewriters.
 
-# Live preview
-[Click here](http://hitchhiker.ma/daktilo/) to see the theme in action.
+# More info and Live preview
+[Click here](http://daktilo.github.io/) to see the theme in action.
 
 # Features
 - Fully responsive
@@ -45,15 +45,6 @@ permalink: /categories/an-awesome-category/
 ```
 
 - Then you will see it in the footer in the `Explore` section.
-
-# Sneak peek
-
-![img][home_desktop]
-
-![img][home_phone]
-
-[home_desktop]: https://raw.githubusercontent.com/kronik3r/assets/master/daktilo/desktop.png
-[home_phone]: https://raw.githubusercontent.com/kronik3r/assets/master/daktilo/phone.png
 
 # License
 
