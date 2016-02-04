@@ -17,5 +17,8 @@ author:
 
 # google_analytics: 'UA-XXXXXXXX-X'
 
+# Handling Reading
+exclude: ["README.md", "README.html"]
+
 # Build settings
 markdown: kramdown
