@@ -61,3 +61,14 @@ task :post do
 		puts "Successfully created post file. Go edit it now!"
 	end
 end
+
+desc "Get the current version of Daktilo"
+task :version do
+	version_file_contents = YAML.load_file(CONFIG['version_file'])
+
+	if version_file_contents['version']
+		puts "Daktilo version #{version_file_contents['version']}."
+	else
+		puts "Could not find version file."
+	end
+end
