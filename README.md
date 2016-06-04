@@ -19,6 +19,7 @@ Daktilo is a [Jekyll](jekyllrb.com) theme with a minimal design inspired from ty
 # How to use it
 Start by cloning the repository, then check the `_config.yml` file and change it accordingly.
 Note that the `title` property is what will be displayed as logo.
+Change the `num` in `paginate:num` to see the number of posts on one page.
 
 Finally execute `jekyll serve --watch` and head to [localhost:4000](http://127.0.0.1:4000) to see the result.
 
