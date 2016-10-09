@@ -5,8 +5,9 @@ body {
     background-color: $dorian;
 }
 
+//Link
 a {
-    color: $cloudy;
+    color: $valentine;
     font-weight: bold;
     text-decoration: none;
 
@@ -58,8 +59,9 @@ blockquote {
     }
 }
 
+//Autore
 strong {
-    color: $iron;
+    color: $lightValentine;
 }
 
 /* =Header */
@@ -132,7 +134,7 @@ strong {
 .page-title__subtitle {
     font-weight: 400;
     font-size: 22px;
-    color: $cloudy;
+    color: $valentine;
 }
 
 .post-title {
@@ -145,6 +147,20 @@ strong {
 
 .post-title__subtitle {
     font-size: 20px;
+}
+
+.post-divider{
+  margin-top:10px;
+  margin-bottom:10px;
+  font-size: 20px;
+  font-weight: normal;
+  color: $cloudy;
+}
+
+.post-author{
+  font-size: 17px;
+  font-weight: normal;
+  color: $cloudy;
 }
 
 /* =Post teasers */
@@ -168,7 +184,7 @@ strong {
     font-size: 16px;
     float: right;
     vertical-align: middle;
-    color: $cloudy;
+    color: $lightValentine;
 }
 
 .empty-post-list {
@@ -181,13 +197,14 @@ strong {
 /* =Explore */
 .explore {
     text-align: center;
-    color: $cloudy;
+    color: $iron;
     margin-top: 140px;
 }
 
 .explore__devider {
     font-size: 18px;
     letter-spacing: 8.18px;
+    color: $lightValentine;
 }
 
 .explore__label {
@@ -208,13 +225,14 @@ strong {
 }
 
 .categories__item a {
-    color: $iron;
+    color: $lightValentine;
 }
 
 .categories__item:after {
     content: "/";
     margin-left: 6px;
-    color: $cloudy;
+    font-weight: bold;
+    color: $iron;
 }
 
 .categories__item:last-child:after {
@@ -233,7 +251,7 @@ strong {
 
 .about__devider {
     font-size: 20px;
-    margin-bottom: 50px;
+    margin-bottom: 10px;
     letter-spacing: 9.09px;
 }
 
