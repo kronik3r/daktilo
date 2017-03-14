@@ -4,6 +4,9 @@ title:  "Sample post from Daktilo"
 subtitle: "What you can do with it!"
 date:   2014-08-19 23:56:45
 categories: [tool]
+permalink: /sample-post
+cover: /assets/images/sample-post.png
+description: Just a sample post to show some of the *typography* elements supported from Daktilo theme.
 ---
 
 Just a sample post to show some of the *typography* elements supported from
