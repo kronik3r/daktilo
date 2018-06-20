@@ -14,7 +14,7 @@ Daktilo is a [Jekyll](jekyllrb.com) theme with a minimal design inspired from ty
 - Support for categories.
 - Font-Awesome Icons.
 - Optimized for SEO.
-- Coolest [404 page ever](http://electrik-frog.com/daktilo/404.html).
+- Coolest [404 page ever](http://kronik3r.github.io/daktilo/404.html).
 
 # How to use it
 Start by cloning the repository, then check the `_config.yml` file and change it accordingly.
