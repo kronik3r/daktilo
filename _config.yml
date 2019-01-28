@@ -1,4 +1,6 @@
-# Site settings
+gems: [jekyll-paginate]
+
+    # Site settings
 title: Daktilo
 description: >
   Write an awesome description for your new site here. You can edit this
@@ -27,3 +29,6 @@ exclude: ["README.md", "README.html"]
 # Build settings
 highlighter: null
 markdown: kramdown
+
+paginate: 5
+paginate_path: "/page:num"
