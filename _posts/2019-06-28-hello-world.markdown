@@ -28,3 +28,6 @@ The competition was a huge leap from my comfort zone but sparked my interest in 
 * [Start a GitHub pages blog](https://www.reddit.com/r/oscp/comments/aagrpm/zero_to_oscp_in_four_months/) - Help potential employers get to know me better. Plus, my starting perspectives would be really cool to look back on after I gain more experience.
 * [Do report good](https://www.reddit.com/r/oscp/comments/b215lm/another_passed_oscp_newbie_to_oscp/) - I should take many pictures and follow instructions to the T. In addition, I will be conscious of understanding my actions procedurally to support informed/detailed reports.
 
+These posts put me in a growth mindset: learn the techniques, tools, and academics to support my continuous technical progression and inform leaders/teammates in projects that use these skills.
+
+I also dove into Hacksploit's videos about Kali tools and breaking into machines on [www.hackthebox.eu\.
