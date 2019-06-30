@@ -1,9 +1,12 @@
 ---
 layout: post
-title:  "Hello World"
-subtitle: "Feel home!"
-date:   2015-06-28 20:50
-categories: [design, tool]
+title: Hello World
+subtitle: Feel home!
+date: '2015-06-28 20:50'
+categories:
+  - design
+  - tool
+published: true
 ---
 Hello World!
 
@@ -28,6 +31,10 @@ The competition was a huge leap from my comfort zone but sparked my interest in 
 * [Start a GitHub pages blog](https://www.reddit.com/r/oscp/comments/aagrpm/zero_to_oscp_in_four_months/) - Help potential employers get to know me better. Plus, my starting perspectives would be really cool to look back on after I gain more experience.
 * [Do report good](https://www.reddit.com/r/oscp/comments/b215lm/another_passed_oscp_newbie_to_oscp/) - I should take many pictures and follow instructions to the T. In addition, I will be conscious of understanding my actions procedurally to support informed/detailed reports.
 
-These posts put me in a growth mindset: learn the techniques, tools, and academics to support my continuous technical progression and inform leaders/teammates in projects that use these skills.
+These posts put me in a growth mindset: learn the techniques, tools, and academics to support my continuous technical progression and inform leaders/teammates for business requirements.
 
-I also dove into Hacksploit's videos about Kali tools and breaking into machines on [www.hackthebox.eu\.
+I also watched Hacksploit's videos that went into a variety of hacking topics. The [Lame walkthrough](https://www.youtube.com/watch?v=Ru8YxARNS7M) introduced me to Searchsploit and the general process for engaging vulnerable services. In the 24 AF Cyber Competition, I developed the process of enumerating the network for Windows devices then sweeping ms03, ms01, and ms17 exploits across the list; it was much less flexible than pairing service versions with vulnerabilities in the Metasploit database.
+
+As a starting point, I'm currently armed with tangential cyber skills, Reddit insights, and guidance of seasoned hackers. Before the PWK course starts, I will continue to gather meta knowledge about the competition and familiarize myself with Kali Linux through pentesting labs; this will allow me to hit the ground running and not waste any lab time.
+
+Wish me good luck! Thanks for reading :)
